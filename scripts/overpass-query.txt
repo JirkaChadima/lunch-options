@@ -1,0 +1,5 @@
+node
+  [amenity=restaurant]
+  (around:500,50.075458,14.424554);
+out;
+
